@@ -1,0 +1,17 @@
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\bin\Debug\net6.0-windows\zd3.1_Forms.exe
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\bin\Debug\net6.0-windows\zd3.1_Forms.deps.json
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\bin\Debug\net6.0-windows\zd3.1_Forms.runtimeconfig.json
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\bin\Debug\net6.0-windows\zd3.1_Forms.dll
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\bin\Debug\net6.0-windows\zd3.1_Forms.pdb
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.csproj.AssemblyReference.cache
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3._1_Forms.Form1.resources
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.csproj.GenerateResource.cache
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.AssemblyInfoInputs.cache
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.AssemblyInfo.cs
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.csproj.CoreCompileInputs.cache
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.dll
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\refint\zd3.1_Forms.dll
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.pdb
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\zd3.1_Forms.genruntimeconfig.cache
+C:\Users\2bugs\Desktop\zd_3_Baranov_Praktika\3.1\zd3.1_Forms\obj\Debug\net6.0-windows\ref\zd3.1_Forms.dll
